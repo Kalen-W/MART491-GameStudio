@@ -26,6 +26,7 @@ To attack with a unit, first insure the target is within the unit's attack range
 ### Unit Summoning
 --------------------------------
 Combat will start with you only having one unit, your commander, but additional units can be summoned through the summoning menu. To use the summoning menu: first select the tile you with the unit to be summoned onto (it must be within the movement range of your commander), open the summoning menu by pressing tab (or clicking the rectangle along the left edge of the screen), then click the unit you wish to summon.
+
 Summoned units cannot act on the turn they are summoned, and your are limited on the number you may summon by the "summoning stones", the number of which you have is visible at the bottom of the summoning menu.
 
 <br />
