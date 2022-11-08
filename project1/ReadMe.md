@@ -20,6 +20,9 @@ To move a unit, select a tile within it's movement range, then either click the 
 #### Attacking With A Unit:
 To attack with a unit, first insure the target is within the unit's attack range, next you must click the target to highlight it, and then either right click it, or click the "Attack" button at the bottom of the screen.
 
+#### Camera Movement:
+To pan the camera view, simply hold down the right mouse button and move the mouse.
+
 
 <br />
 
@@ -40,3 +43,13 @@ To end your turn simply press the "End Turn" bottom near the bottom right of the
 ### Winning / Losing
 --------------------------------
 To win you must defeat all enemy units, and you lose once your commander unit has been defeated.
+
+<br />
+
+### Example Images
+--------------------------------
+![PrototypeMapGenerationExample](./ExampleImages/PrototypeMapGenerationExample.png)
+
+![PrototypeMapGenerationV2Example](./ExampleImages/PrototypeMapGenerationV2Example.png)
+
+![OutdatedPathfindingExample](./ExampleImages/OutdatedPathfindingExample.png)
